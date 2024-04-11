@@ -1,0 +1,1 @@
+flask --app projeto01/app.py run
